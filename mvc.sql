@@ -67,3 +67,5 @@ ORDER BY 2 DESC;
 changed this line
 
 current_date()
+
+current_timestamp()
