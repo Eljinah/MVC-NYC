@@ -69,3 +69,5 @@ changed this line
 current_date()
 
 current_timestamp()
+
+count()
